@@ -1,0 +1,30 @@
+.taskClass {
+  text-align: center;
+}
+
+.addTask {
+  width: 50%;
+  margin: 15px 20px;
+  border: 2px solid green;
+  border-radius: 10px;
+  padding: 3px;
+}
+
+.tableClass {
+  width: 70%;
+  margin: auto;
+}
+
+.tableHead {
+  width: 70%;
+  text-align: center;
+}
+
+.actionTask {
+  text-decoration: none;
+  display: inline;
+}  
+
+.editHeading{
+  text-align: center;
+}
